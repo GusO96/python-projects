@@ -10,7 +10,7 @@ salary = (float(input('Enter your salary: ')))
 increase = salary * 0.25
 total = salary + increase
 
-# Printing the result
+# Printing the results
 print()
 print('INFORMATION - 25% INCREASE')
 print(f'Name: {name}')

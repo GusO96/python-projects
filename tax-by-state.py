@@ -1,5 +1,5 @@
 print()
-print('IMPOSTO POR ESTADO')
+print('TAX BY STATES')
 print()
 
 value = float(input('Enter the value of the product: '))
